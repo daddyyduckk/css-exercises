@@ -1,0 +1,19 @@
+.odd{
+    background-color: rgb(243, 90, 123);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#two{
+    font-size: 36px;
+    color: rgb(13, 13, 236)
+}
+
+#jhin{
+    background-color: rgb(41, 228, 165);
+    font-weight: bold;
+}
+
+.big-font{
+    font-size: 24px;
+}
+
